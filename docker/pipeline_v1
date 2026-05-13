@@ -6,7 +6,7 @@ pipeline {
 
     // 🛠️ Configuración de herramientas necesarias
     tools {
-        maven 'MAVEN_HOME'
+        maven 'MAVEN HOME'
     }
 
     // 🔧 Definición de variables globales
